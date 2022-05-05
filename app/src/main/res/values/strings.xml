@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CartoonGAN</string>
+    <string name="load_image">Load Image</string>
+    <string name="original_image">original image</string>
+    <string name="cartoonized_image">cartoonized_image</string>
+    <string name="cartoonize">Cartoonize</string>
+</resources>
