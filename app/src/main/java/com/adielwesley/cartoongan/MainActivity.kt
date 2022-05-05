@@ -23,6 +23,8 @@ class MainActivity : AppCompatActivity() {
         binding.loadOriginalButton.setOnClickListener { onLoadOriginalImageClicked() }
         binding.cartoonizeButton.setOnClickListener { onCartoonizeClicked() }
 
+        // To do: create model options to set GPU as hardware accelerator
+
         // To do: initialize model
     }
 
